@@ -2,7 +2,7 @@
     "name" : "pivotal",
     "description" : "API library for PivotalTracker",
     "keywords" : [ "pivotal", "tracker", "pivotaltracker" ],
-    "homepage" : "https://github.com/Wizcorp/node-pivotal",
+    "homepage" : "https://github.com/mansuleman/node-pivotal/",
     "version" : "0.2.0",
     "author" : "Marc Trudel <mtrudel@wizcorp.jp>",
     "contributors" : [
@@ -20,7 +20,7 @@
     },
     "repository" : {
         "type" : "git",
-        "url" : "https://github.com/Wizcorp/node-pivotal.git"
+        "url" : "https://github.com/mansuleman/node-pivotal.git"
     },
     "dependencies" : {
         "async" : "0.2.x",
